@@ -1,0 +1,10 @@
+{
+    "loginEmail": "coach@coach.com",
+    "password" : "123456789mM@",
+    "registrationEmail": "test@coach.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phone": "565678900",
+    "paymentMethod": "stc",
+    "paymentValue": "565567899",
+}
